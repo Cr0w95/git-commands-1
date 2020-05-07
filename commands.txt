@@ -1,0 +1,15 @@
+move a repo to the local machine:
+git clone https://github.com/Cr0w95/portal-1.git
+
+see changes in the repo:
+git status
+
+stage all changed files:
+git add .
+
+makes all staged files part of the branch:
+git commit -m "Adds files to branch"
+
+move the changed files to the server:
+git push
+
